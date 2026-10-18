@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0204-count-primes/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -99,4 +100,28 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0204-count-primes/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
