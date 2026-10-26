@@ -124,4 +124,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0204-count-primes/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
