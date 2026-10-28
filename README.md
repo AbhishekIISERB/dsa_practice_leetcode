@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0204-count-primes](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0204-count-primes/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -101,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -134,4 +136,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/AbhishekIISERB/dsa_practice_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
